@@ -1,1 +1,1 @@
-worker: python dax.py
+worker : python dax.py
